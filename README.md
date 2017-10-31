@@ -1,10 +1,23 @@
+This program implements the lzw algorithm.
+
+To Compile:
+Compactor - make PandaCompact
+Decompressor - make PandaDescompact
+Clear files- make clean
+Clear files txt - make clean_txt
+
+To execute:
+./PandaCompact <input.txt> <output.txt>
+./PandaDescompact <input.txt> <output.txt>
+
+
 Trabalho de Redes de Computadores 1 - Projeto 3 
 CI058 - Redes 1
 Professor: Luiz Carlos Pessoa Albini 
 
 Alunos:
-	Fernando Claudecir Erd fce15 GRR20152936
-	Gabriela Yukari Kimura gyk15 GRR20151446
+	Fernando Claudecir Erd
+	Gabriela Yukari Kimura
 
 ----Algoritmos e Estruturas de dados:----------
 
