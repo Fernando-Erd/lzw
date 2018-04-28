@@ -3,9 +3,13 @@
 This program implements the lzw algorithm.
 
 ##### To Compile:
+Compactor
 ```bash
-Compactor - make PandaCompact
-Decompressor - make PandaDescompact
+make PandaCompact
+```
+Decompressor
+```bash
+make PandaDescompact
 ```
 
 ##### Clear files
